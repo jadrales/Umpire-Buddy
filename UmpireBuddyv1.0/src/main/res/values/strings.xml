@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="strike">Strike:</string>
+    <string name="ball">Ball:</string>
+    <string name="strikeButton">Strike</string>
+    <string name="ballButton">Ball</string>
+</resources>
