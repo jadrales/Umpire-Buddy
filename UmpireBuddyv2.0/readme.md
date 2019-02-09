@@ -1,4 +1,6 @@
-#Umpire Buddy v2.0 -Added custom application icon
+#Umpire Buddy v2.0 
+
+-Added custom application icon
 
 -Added menu with "Reset" item that resets the strike/ball count and "About" subitem that gives information about the app
 
